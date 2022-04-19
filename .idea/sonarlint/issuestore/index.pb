@@ -29,3 +29,9 @@ Hsrc/main/java/com/sofkau/EjerciciosPropuestos/Ejercicio8/DiaLaboral.java,b\a\b
 Psrc/main/java/com/sofkau/EjerciciosPropuestos/Ejercicio9/FraseRefactorizada.java,2\0\2007851cdb57001d6b8661c187cde3e613a29095
 Å
 Qsrc/main/java/com/sofkau/EjerciciosPropuestos/Ejercicio10/EspaciosEliminados.java,a\7\a7957ce26d398c89f55a0242f14813a82ed04534
+}
+Msrc/main/java/com/sofkau/EjerciciosPropuestos/Ejercicio11/AlgoritmoFrase.java,3\d\3dcfaa172e6bcb5c26e8e300c6a8c9cc10880d29
+
+Osrc/main/java/com/sofkau/EjerciciosPropuestos/Ejercicio13/FechaYHoraActual.java,4\d\4d1e0ede5eed8cf9723c712e783dd4f7854b10a7
+~
+Nsrc/main/java/com/sofkau/EjerciciosPropuestos/Ejercicio12/PalabrasIguales.java,d\2\d25fc884c8b103f860dceb5fc61daf4b87b8aa25
